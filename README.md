@@ -1,3 +1,18 @@
+## Your thought process
+
+- Centralize card state in a parent component (`SimbianDashboard, WithoutSimbianDashboard`)
+- Used useState / useEffect / setInterval to simulate alert flow
+- Uses Framer Motion’s AnimatePresence + motion.div for enter/exit
+- Maintained the component and logic layer separatelay. Ex. `SimbianDashboard` component logic is implemented in `useSimbianDashboard`.
+
+## Animation library used
+- Used the Framer Motion library for the Cards and Icons Animdation
+
+## Any known issues or improvements you would make with more time
+- Used the random icons for each alerts
+- UX is not matched with the Video
+- Could have used the state management library
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
