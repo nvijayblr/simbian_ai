@@ -4,6 +4,7 @@
 - Used useState / useEffect / setInterval to simulate alert flow
 - Uses Framer Motion’s AnimatePresence + motion.div for enter/exit
 - Maintained the component and logic layer separatelay. Ex. `SimbianDashboard` component logic is implemented in `useSimbianDashboard`.
+- Used routing for Without Simbian and With Simbion Dashboard.
 
 ## Animation library used
 - Used the Framer Motion library for the Cards and Icons Animdation
