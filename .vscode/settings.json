@@ -1,0 +1,10 @@
+{
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": true,
+  "breadcrumbs.enabled": false,
+  "[typescriptreact]": {},
+  "editor.formatOnSave": true,
+  "window.zoomLevel": 0,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always"
+}
